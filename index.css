@@ -1,0 +1,61 @@
+html {
+	background-color: rgb(12, 13, 44); 
+}
+
+.Title {
+	background-color: rgb(12, 13, 44); 
+}
+
+.Titulo {
+	color : white;
+	text-align : center;
+	background-color: rgb(12, 13, 44); 
+}
+
+.Title hr {
+	margin-right: 15%;
+	margin-left: 15%;
+	background-color: white;
+}
+
+.corpo {
+	background-color: rgb(12, 13, 44);
+}
+
+.text{
+	color : white;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+}
+.lista {
+	color: white;
+	list-style-type: none;
+}
+.l_f {
+	margin-right: 5%;
+	margin-left: 5%;
+	background-color: white;
+}
+
+.video{
+margin-right: 35%;
+	margin-left: 31%;
+}
+
+.linhazinha {
+	margin-right: 27.5%;
+	margin-left: 31%;
+	background-color: rgb(12, 13, 44);
+	background-color: white;
+	width : 560;
+
+}
+
+.aluno {
+	margin-right: 27.5%;
+	margin-left: 31%;
+	background-color: rgb(12, 13, 44);
+	color: white;
+	width : 560;
+}
